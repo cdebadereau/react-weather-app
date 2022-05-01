@@ -1,0 +1,56 @@
+.Weather .weather-app-wrapper {
+  border: 1px solid #eee4d7;
+  border-radius: 10px;
+  box-shadow: 10px 3px 11px rgba(0, 0, 0, 5%);
+  padding: 30px;
+  margin-bottom: 3px;
+  background-color: #f1e6d9;
+}
+
+.Weather .overview {
+  margin-top: 10px;
+  margin-bottom: 30px;
+  font-size: 18px;
+}
+
+.Weather .overview .description {
+  font-weight: bold;
+}
+
+.Weather .current-temperature img {
+  height: 100px;
+  width: 100px;
+  position: relative;
+  top: -56px;
+}
+
+.Weather .current-temperature {
+  height: 80px;
+  padding-left: 77px;
+}
+
+.Weather .temperature-description strong {
+  font-size: 96px;
+}
+
+.Weather .temperature-description {
+  display: inline;
+  position: relative;
+  top: -28px;
+}
+
+.Weather .temperature-description .unit {
+  position: relative;
+  top: -55px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.Weather .temperature-info {
+  font-size: 16px;
+}
+
+.Weather .info-elements {
+  text-align: right;
+  padding: 0;
+}
