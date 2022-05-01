@@ -8,6 +8,16 @@ function App() {
   return (
     <div classNameName="App">
       <Weather />
+      <small>
+        <a
+          href="https://github.com/cdebadereau/react-weather-app"
+          target="_blank"
+          rel="noreferrer"
+        >
+          Open-source code{" "}
+        </a>
+        made by Cyrielle de Badereau
+      </small>
     </div>
   );
 }

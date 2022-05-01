@@ -41,3 +41,7 @@ li::first-letter {
 small a {
   text-decoration: none;
 }
+
+small {
+  margin-left: 210px;
+}
